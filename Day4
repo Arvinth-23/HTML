@@ -1,0 +1,20 @@
+<h> List In the HTML </h>
+<p> List Tag has two types</p>
+<ol>
+    <li> Ordered </li>
+    <li> Unordered </li>
+<h2>Ordered List</h2>
+<ol> 
+    <li> Pen
+    <li> Pencil
+    <li> Eraser
+</li>
+</ol>
+<h3> UnOrdered List </h3>
+<ol> 
+    <li> Pen
+    <li> Pencil
+    <li> Eraser
+</li>
+</ul>
+
