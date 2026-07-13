@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Form</title>
+</head>
+
+<body bgcolor="blue">
+
+    <h2 align="center">Student Information Form</h2>
+
+    <form>
+        Roll No:
+        <input type="text"><br><br>
+
+        Name:
+        <input type="text"><br><br>
+
+        Date of Birth:<br><br>
+
+        Day:
+        <input type="text" size="5">
+ 
+        Month:
+        <input type="text" size="10">
+
+        Year:
+        <input type="text" size="6"><br><br>
+        
+        Mobile Number:
+        
+        <input type="number"><br><br>
+
+        Email id:
+        <input type="text"><br><br>
+
+
+        <label>Gender:</label><br>
+        <input type="radio" id="male" name="gender" value="Male">
+        <label for="male">Male</label><br>
+
+        <input type="radio" id="female" name="gender" value="Female">
+        <label for="female">Female</label><br>
+    
+        Last Company Worked:
+        <input type="text"><br><br>
+
+        <input type="submit" value="Submit">
+        <input type="reset" value="Reset">
+
+
+    </form>
+
+</body>
+</html>
