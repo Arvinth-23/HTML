@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Table Demo</title>
+</head>
+<body>
+
+<table border="1" cellpadding="5">
+
+<tr>
+    <th rowspan="3">Sr.No.</th>
+    <th colspan="4">College Name</th>
+</tr>
+
+<tr>
+    <th colspan="2">Section A</th>
+    <th colspan="2">Section B</th>
+</tr>
+
+<tr>
+    <th>X</th>
+    <th>Y</th>
+    <th>X</th>
+    <th>Y</th>
+</tr>
+
+<tr>
+    <td>1</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+
+<tr>
+    <td>2</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+
+<tr>
+    <td>3</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+
+</table>
+
+</body>
+</html>
